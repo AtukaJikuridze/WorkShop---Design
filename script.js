@@ -35,6 +35,38 @@ let cardsInfo = [
     paragraph:
       "Commercial space travel inches closer to reality as industry leaders announce successful test flights and expedited timelines for space tourism ventures. With innovative spacecraft designs and robust s...",
   },
+  {
+    id: 1,
+    image: "./Images/Card.png",
+    smallParagraph: "Sarah Hogward",
+    title: "Space tourism takes giant leap forward",
+    paragraph:
+      "Commercial space travel inches closer to reality as industry leaders announce successful test flights and expedited timelines for space tourism ventures. With innovative spacecraft designs and robust s...",
+  },
+  {
+    id: 1,
+    image: "./Images/Card.png",
+    smallParagraph: "Sarah Hogward",
+    title: "Space tourism takes giant leap forward",
+    paragraph:
+      "Commercial space travel inches closer to reality as industry leaders announce successful test flights and expedited timelines for space tourism ventures. With innovative spacecraft designs and robust s...",
+  },
+  {
+    id: 1,
+    image: "./Images/Card.png",
+    smallParagraph: "Sarah Hogward",
+    title: "Space tourism takes giant leap forward",
+    paragraph:
+      "Commercial space travel inches closer to reality as industry leaders announce successful test flights and expedited timelines for space tourism ventures. With innovative spacecraft designs and robust s...",
+  },
+  {
+    id: 1,
+    image: "./Images/Card.png",
+    smallParagraph: "Sarah Hogward",
+    title: "Space tourism takes giant leap forward",
+    paragraph:
+      "Commercial space travel inches closer to reality as industry leaders announce successful test flights and expedited timelines for space tourism ventures. With innovative spacecraft designs and robust s...",
+  },
 ];
 const createCard = (img, smallP, title, paragraph, time) => {
   const cardImage = document.createElement("img");
